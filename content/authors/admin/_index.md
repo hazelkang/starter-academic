@@ -6,7 +6,7 @@ title: Hazel Hyeseung Kang
 superuser: true
 
 # Role/position/tagline
-role: Boston University PhD student
+#role: Boston University PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.bu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Online Communities, Digital Platforms, Social Media, and E-health
+bio: My research interests include E-commerce, Digital Platforms, Social Media, and E-health
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- E-commerce
+- Digital Platforms
+- E-health
 
 # Education to show in About widget
 education:
@@ -42,19 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'hazelk@bu.edu'
+- #icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+- #icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/hyeseung91
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/hazel-hyeseung-kang-094691206/?originalSubdomain=kr
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am Hazel Hyeseung Kang, a PhD student at Questrom School Of Business at Boston University. 
+I am Hazel Hyeseung Kang, a PhD student of Information Systems at Questrom School Of Business, Boston University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
